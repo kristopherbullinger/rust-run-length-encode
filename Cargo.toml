@@ -1,5 +1,5 @@
 [package]
-name = "run-length-encoding"
+name = "run-length-encode"
 version = "0.1.0"
 authors = ["kristopherbullinger <kris.bullinger@gmx.com>"]
 edition = "2018"
